@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Player data is created on first run; never commit it (it holds passwords)
+data.csv
+feedback.txt
+users.json
+data.txt
